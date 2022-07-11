@@ -1,7 +1,7 @@
-# Analyzing data with Tableau 
+# (TEST) Analyzing data with Tableau
 format_version: 3.0
-id: analyze-tableau
-url: analyze-tableau
+id: test-analyze-tableau
+url: test-analyze-tableau
 category: basic
 meta_title: Analyzing data with Tableau
 estimated_time: 4
