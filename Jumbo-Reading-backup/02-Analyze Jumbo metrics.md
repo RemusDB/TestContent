@@ -4,7 +4,7 @@ url: load-transform-data
 
 ## Description
 
-Intepreteer snel de belangrijkste metrics van Jumbo met de meestgebruikte visualisaties.
+Interpreteer snel de belangrijkste metrics van Jumbo met de meestgebruikte visualisaties.
 
 ## Welcome Message
 
@@ -147,7 +147,7 @@ video: https://vimeo.com/733967891/38fe45ac6f
 
 ###### Step #2
 
-<p>Ga naar de <code>Frisdranken Weekly Change</code> pagina.</p>
+<p>Ga naar de <code>Frisdranken WoW</code> pagina.</p>
 
 <p>Kijk naar de wekelijkse omzet drill down op Presentatiegroep voor Frisdranken.</p>
 
@@ -200,7 +200,7 @@ video: https://vimeo.com/733967891/38fe45ac6f
 
 ##### Context
 
-<p>Als een Assortimentsmanager ben je geïnteresseerd in zowel de absolute als de relatieve toename. In de vorige opdracht heb je alleen gekeken naar de absolute toename van week 14 naar week 15.</p>
+<p>Als Assortimentsmanager ben je geïnteresseerd in zowel de absolute als de relatieve toename. In de vorige opdracht heb je alleen gekeken naar de absolute toename van week 14 naar week 15.</p>
 
 <p>In deze opdracht kijken we ook naar de relatieve toename binnen de Presentatiegroep Frisdranken.</p>
 

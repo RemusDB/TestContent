@@ -1,7 +1,7 @@
 # Data visualisaties voor Assortimentsmanagers
 format_version: 3.0
-id: jumbo-read-data-viz
-url: jumbo-read-data-viz
+id: jumbo-read-data-vizual
+url: jumbo-read-data-vizal
 category: basic
 meta_title: Reading Data Visualizations in PowerBI/Microstrategy
 estimated_time: 4

@@ -1,7 +1,7 @@
-# Lezen van data visualisaties in MicroStrategy en Power BI
+# Data visualisaties voor Assortimentsmanagers
 format_version: 3.0
-id: jumbo-read-data-viz
-url: jumbo-read-data-viz
+id: jumbo-read-data-viz10
+url: jumbo-read-data-viz10
 category: basic
 meta_title: Reading Data Visualizations in PowerBI/Microstrategy
 estimated_time: 4
@@ -18,7 +18,7 @@ Het lezen en analyseren van data visualisaties helpen je om inzichten te krijgen
 <p>In datagedreven organisaties gebruikt iedereen data visualisaties om inzichten te krijgen en beslissingen te nemen. Data visualisaties maken het makkelijk om te vergelijken, trends te ontdekken of relaties te vinden.</p>
 <p>In deze training leer je hoe je snel en en goed beslissingen kunt nemen met inzichten door data visualisaties. Je leert hoe je visueel KPIs en metrics kunt analyseren en kunt inspelen op de veranderingen van deze metrics. Op deze manier kun je als Assortimentsmanager van Jumbo op elk moment de goede belissing maken.</p>
 <p>
-In deze training gebruiken we Jumbo dashboards en MicroStrategy en Power BI.</p>
+In deze training gebruiken we Jumbo dashboards in MicroStrategy en Power BI.</p>
 </div>
 
 
